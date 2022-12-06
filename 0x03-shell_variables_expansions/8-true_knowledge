@@ -1,3 +1,2 @@
 #!/bin/bash
-val=128+$TRUEKNOWLEDGE
-echo $val
+echo 128+$TRUEKNOWLEDGE
